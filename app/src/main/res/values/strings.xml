@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test Technique Lydia</string>
+    <string name="error_offline_contacts">Error loading Contacts</string>
+    <string name="error_offline_retry">RETRY</string>
+    <string name="screen_name_contact">Contacts</string>
+    <string name="screen_name_details">Details</string>
+</resources>
